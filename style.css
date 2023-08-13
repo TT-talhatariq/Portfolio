@@ -1,0 +1,26 @@
+.introduction{
+    height: 100vh;
+    text-align: center;
+}
+
+.introduction img{
+    width: 400px;
+    border-radius: 50%;
+    border: 4px solid blue;
+    box-shadow: 5px 5px 15px 1px #888888;
+}
+.introduction h1{
+    font-size: 50px;
+    color:rgb(32, 119, 242);
+}
+.introduction button{
+    font-size: 25px;
+    width: 200px;
+    height: 80px;
+    border: 1px solid blue;
+    border-radius: 20px;
+}
+.education{
+    background-color: rgb(49, 49, 49);
+    color:white;
+}
